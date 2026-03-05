@@ -1,6 +1,6 @@
 # Projet TP Git
 
-**Nom du projet : Projet Git – Groupe 6**
+**Nom du projet : TP GIT – Groupe 6**
 
 Bienvenue dans ce petit TP Git.
 
